@@ -4821,12 +4821,7 @@ a {
     height: 100%;
     max-height: 42px;
     border-radius: 5px;
-    background-image: linear-gradient(135deg,
-            #098b35 27%,
-            #f7e61a 86%,
-            #f8c124 92%,
-            #ed892b 96%,
-            #c23c24);
+    background-image: linear-gradient(135deg, #987e6e 27%, #482a20 86%, #482a20 92%, #987e6e 96%, #987e6e);
 }
 
 .link-cover.passive {
