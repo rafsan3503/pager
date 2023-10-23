@@ -2453,7 +2453,7 @@ textarea.w-select {
 }
 
 body {
-    background-color: #482a20;
+    background-color: black;
     font-family: "GangofThree", sans-serif;
     color: #fff;
     font-size: 24px;
@@ -3544,18 +3544,18 @@ a {
     background-image: -webkit-gradient(linear,
             left top,
             left bottom,
-            from(#482a20),
+            from(black),
             color-stop(14%, rgba(0, 5, 32, 0)),
             color-stop(88%, rgba(0, 5, 32, 0)),
-            to(#482a20)),
+            to(black)),
         radial-gradient(circle farthest-side at 50% 50%,
             rgba(1, 253, 248, 0.1),
             rgba(1, 253, 248, 0));
     background-image: linear-gradient(180deg,
-            #482a20,
+            black,
             rgba(0, 5, 32, 0) 14%,
             rgba(0, 5, 32, 0) 88%,
-            #482a20),
+            black),
         radial-gradient(circle farthest-side at 50% 50%,
             rgba(1, 253, 248, 0.1),
             rgba(1, 253, 248, 0));
@@ -4014,7 +4014,7 @@ a {
 
 .sidebar-icon:hover {
     border-color: #02f4ff;
-    background-color: #482a20;
+    background-color: black;
 }
 
 .xxl-heading {
@@ -4587,7 +4587,7 @@ a {
     -ms-flex-align: center;
     align-items: center;
     border-bottom: 1px solid rgba(192, 192, 211, 0.2);
-    background-color: #482a20;
+    background-color: black;
     -webkit-transform: translate3d(0px, 0px, 1000px);
     transform: translate3d(0px, 0px, 1000px);
     -webkit-transform-style: preserve-3d;
@@ -4696,7 +4696,7 @@ a {
     height: 80px;
     border-right: 1px solid rgba(192, 192, 211, 0.2);
     border-bottom: 1px solid rgba(192, 192, 211, 0.2);
-    background-color: #482a20;
+    background-color: black;
     -webkit-transform: translate3d(0px, 0px, 1111px);
     transform: translate3d(0px, 0px, 1111px);
     -webkit-transform-style: preserve-3d;
@@ -4821,7 +4821,7 @@ a {
     height: 100%;
     max-height: 42px;
     border-radius: 5px;
-    background-image: linear-gradient(135deg, #987e6e 27%, #482a20 86%, #482a20 92%, #987e6e 96%, #987e6e);
+    background-image: linear-gradient(135deg, #987e6e 27%, black 86%, black 92%, #987e6e 96%, #987e6e);
 }
 
 .spinning-image {
@@ -5142,8 +5142,8 @@ a {
             left top,
             left bottom,
             from(#000),
-            color-stop(61%, #482a20));
-    background-image: linear-gradient(180deg, #000, #482a20 61%);
+            color-stop(61%, black));
+    background-image: linear-gradient(180deg, #000, black 61%);
 }
 
 .road-end {
@@ -5171,8 +5171,8 @@ a {
             left top,
             left bottom,
             from(rgba(0, 5, 32, 0)),
-            color-stop(97%, #482a20));
-    background-image: linear-gradient(180deg, rgba(0, 5, 32, 0), #482a20 97%);
+            color-stop(97%, black));
+    background-image: linear-gradient(180deg, rgba(0, 5, 32, 0), black 97%);
 }
 
 .road-title {
@@ -5960,7 +5960,7 @@ a {
 .outline-button.white-fill {
     grid-column-gap: 20px;
     background-color: #fff;
-    color: #482a20;
+    color: black;
 }
 
 .simple-title {
@@ -6017,7 +6017,7 @@ a {
     border-color: rgba(0, 0, 0, 0.38);
     border-radius: 30px;
     background-color: #fff;
-    color: #482a20;
+    color: black;
 }
 
 .form-text-field-2:focus {
@@ -6077,7 +6077,7 @@ a {
     -webkit-transition: background-color 400ms ease, opacity 400ms ease,
         color 400ms ease;
     transition: background-color 400ms ease, opacity 400ms ease, color 400ms ease;
-    color: #482a20;
+    color: black;
     font-size: 20px;
     font-weight: 700;
     text-decoration: none;
@@ -7337,7 +7337,7 @@ a {
         -ms-flex-align: center;
         align-items: center;
         grid-column-gap: 10px;
-        background-color: #482a20;
+        background-color: black;
     }
 
     .right-nav {
@@ -7384,7 +7384,7 @@ a {
     }
 
     .link-cover-2 {
-        background-color: #482a20;
+        background-color: black;
     }
 
     .left-nav-2 {
@@ -7408,7 +7408,7 @@ a {
         grid-row-gap: 0px;
         -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
-        background-color: #482a20;
+        background-color: black;
     }
 
     .menu-button-2 {
@@ -7561,7 +7561,7 @@ a {
         -ms-flex-align: center;
         align-items: center;
         grid-column-gap: 10px;
-        background-color: #482a20;
+        background-color: black;
     }
 
     .token-percent {
@@ -8346,7 +8346,7 @@ a {
         width: 100vw;
         margin-right: 0px;
         padding-top: 0px;
-        background-color: #482a20;
+        background-color: black;
     }
 
     .navigation-content-2 {
@@ -8485,7 +8485,7 @@ a {
     }
 
     .link-cover-2 {
-        background-color: #482a20;
+        background-color: black;
     }
 
     .left-nav-2 {
@@ -8507,7 +8507,7 @@ a {
     }
 
     .nav-menu-links-2 {
-        background-color: #482a20;
+        background-color: black;
     }
 
     .menu-button-2 {
